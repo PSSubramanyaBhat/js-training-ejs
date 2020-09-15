@@ -5,6 +5,6 @@ let rightJustify = function (s) {
 		leadingSpaces += " "
 	}
 	console.log(leadingSpaces + s);
-}
+};
 
 rightJustify('monty');
